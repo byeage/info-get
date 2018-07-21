@@ -1,0 +1,21 @@
+.weiboPlugins {
+  position: absolute;
+  right: 0;
+  top: 100px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #fff;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.3);
+}
+.weiboPlugins:hover{
+  cursor: pointer;
+}
+
+.button{
+  background: #f55;
+  padding: 8px 15px;
+  border:none;
+  height: 30px;
+  width: 80px;
+  color:#fff;
+}
